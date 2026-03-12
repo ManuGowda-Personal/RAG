@@ -111,10 +111,14 @@ http://localhost:8501
 
 ---
 
-## Project Architecture
-
+## Results
+# Containers
 ![Containers](https://raw.githubusercontent.com/ManuGowda-Personal/RAG/main/app-qdrant-ollama.png)
+
+# qdrant-vector-db
 ![qdrant-vector-db](https://raw.githubusercontent.com/ManuGowda-Personal/RAG/main/Qdrant-vector-db.png)
+
+# streamlit
 ![streamlit](https://raw.githubusercontent.com/ManuGowda-Personal/RAG/main/streamlite-app.png)
 
 ## Author
