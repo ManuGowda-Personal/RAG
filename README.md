@@ -111,8 +111,15 @@ http://localhost:8501
 
 ---
 
+## Project Architecture
+
+![Containers](https://raw.githubusercontent.com/ManuGowda-Personal/RAG/main/app-qdrant-ollama.png)
+![qdrant-vector-db](https://raw.githubusercontent.com/ManuGowda-Personal/RAG/main/Qdrant-vector-db.png)
+![streamlit](https://raw.githubusercontent.com/ManuGowda-Personal/RAG/main/streamlite-app.png)
+
 ## Author
 
 [MANOHARA A R]
 
 ---
+
